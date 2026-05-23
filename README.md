@@ -3,6 +3,8 @@
 ## 🎯 Overview
 Production-ready RAG dataset optimized for OpenAI GPT Builder. Covers official Shopify documentation patterns for **Online Store 2.0 themes**, **CLI v3 apps (Remix)**, **GraphQL/REST Admin APIs**, **Checkout Extensions**, **Functions**, and **security/compliance workflows**. Designed to deliver accurate, cited, and copy-paste-ready scaffolding.
 
+### Screenshot one - Custom GPT app screenshot ![Screenshot](Screenshot-store-expert-help.png)
+
 ## 📁 Folder Structure & Content Map
 | Directory | Purpose |
 |-----------|---------|
